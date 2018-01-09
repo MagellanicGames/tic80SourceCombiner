@@ -11,7 +11,7 @@ Like a typical .lua for the tic 80, define the properties but they must be surro
 ```
 #define tic80Properties
 -- title: MyGameTitle
--- autho: Yourname/handle
+-- author: Yourname/handle
 -- descr: A really fun game where you win
 -- script: lua
 #endDefine
