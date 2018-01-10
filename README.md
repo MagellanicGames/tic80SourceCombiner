@@ -1,5 +1,5 @@
 # tic80SourceCombiner
-A "compiler" for the tic80.  Enables use of multiple .lua files by combining them into a single source file.
+Enables use of multiple .lua files by combining them into a single source file.
 
 ## How-to
 
